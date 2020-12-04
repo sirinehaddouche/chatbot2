@@ -13,7 +13,6 @@
 - no way
 - not really
 
-
 ## intent:goodbye
 - bye
 - goodbye
@@ -36,17 +35,19 @@
 - I am from [Berlin](location)
 - I am based in the [New York](location)
 
-
 ## intent:thanks
 - Thanks
 - thank you
 - thank you so much
 - many thanks
 
-
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
 - I would like to subscribe to Rasa newsletter please
 - Please add me to the Rasa newsletter subscriber list
 - Can I become a Rasa subscriber?
+- can I be a subscriber?
 
+## intent:name
+- My name is Alice
+- sirine

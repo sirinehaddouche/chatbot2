@@ -22,4 +22,21 @@
 * goodbye
   - utter_goodbye
 
+## New Story
 
+* greet
+    - utter_greet
+* affirm
+    - utter_greet
+    - utter_ask_location
+
+## New Story
+
+* greet
+    - utter_greet
+* name
+    - utter_ask_location
+* location
+    - utter_docs
+* goodbye
+    - utter_goodbye
