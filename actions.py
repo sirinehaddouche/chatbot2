@@ -9,7 +9,7 @@ import requests
 class ActionSubscribe(Action):
 
      def name(self) -> Text:
-         return ""
+         return "action_hello_world"
 
      def run(self, dispatcher: CollectingDispatcher,
              tracker: Tracker,
