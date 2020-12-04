@@ -6,6 +6,9 @@ intents:
   - thanks
   - location
   - subscribe
+  - name
+  - chitchat
+  - affirm+subscribe
 
 
 actions:
