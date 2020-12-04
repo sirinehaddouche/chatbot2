@@ -32,9 +32,9 @@
 - I am from [London](location)
 - I am based in [France](location)
 - From the [Netherlands](location)
-- I am from the [United States](location)
+- I am from the [United States](location:USA)
 - I am from [Berlin](location)
-- I am based in the [New York](location)
+- I am based in the [New York](location:NYC)
 
 
 ## intent:thanks
@@ -54,4 +54,14 @@
  - My name is [Tom](name)
  - I am [Tina](name)
  - Call me [Sarah](name)
+
+## intent:chitchat
+- I want pizza
+- Are you a bot?
+- Who made you?
+
+## intent:affirm+subscribe
+- Yes. Can you subscribe me to the newsletter please?
+- Yep. I would also like to become a subscriber to the Rasa newsletter.
+- Yes I have. Also, add me to the Rasa newsletter subscriber list.
 
