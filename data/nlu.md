@@ -50,3 +50,8 @@
 - Please add me to the Rasa newsletter subscriber list
 - Can I become a Rasa subscriber?
 
+## intent:name
+ - My name is [Tom](name)
+ - I am [Tina](name)
+ - Call me [Sarah](name)
+
