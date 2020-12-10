@@ -22,4 +22,18 @@
 * goodbye
   - utter_goodbye
 
+## New Story
 
+* greet
+    - utter_greet
+* name{"name":"Tom"}
+    - utter_ask_location
+* location{"location":"Berlin"}
+    - slot{"location":"Berlin"}
+    - slot{"location":"Berlin"}
+    - utter_used_rasa
+* deny
+    - utter_docs
+* thanks
+    - slot{"location":"Berlin"}
+    - utter_thanks
