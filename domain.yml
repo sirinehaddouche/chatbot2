@@ -20,7 +20,7 @@ slots:
     type: unfeaturized
 responses:
   utter_greet:
-  - text: Hi ! 
+  - text: Hi !
   utter_docs:
   - text: The best way to get started with Rasa is to check our docs at https://rasa.com/docs
   utter_send_blog:
@@ -35,6 +35,8 @@ responses:
   - text: Great! Have you used Rasa before?
   utter_thanks:
   - text: You're welcome !
+  utter_yes:
+  - text: Yes I am !
 actions:
 - utter_greet
 - utter_docs
@@ -45,3 +47,4 @@ actions:
 - utter_used_rasa
 - action_subscribe
 - utter_thanks
+- utter_yes
