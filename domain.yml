@@ -37,6 +37,8 @@ responses:
   - text: You're welcome !
   utter_yes:
   - text: Yes I am !
+  utter_fine:
+  - text: Fine and you?
 actions:
 - utter_greet
 - utter_docs
@@ -48,3 +50,4 @@ actions:
 - action_subscribe
 - utter_thanks
 - utter_yes
+- utter_fine
