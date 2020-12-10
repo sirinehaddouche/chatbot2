@@ -43,6 +43,8 @@ responses:
   - text: I'm bot !
   utter_health:
   - text: How are you ?
+  utter_eating:
+  - text: I'm eating and you?
 actions:
 - utter_greet
 - utter_docs
@@ -57,3 +59,4 @@ actions:
 - utter_fine
 - utter_bot
 - utter_health
+- utter_eating
