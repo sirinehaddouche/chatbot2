@@ -20,8 +20,7 @@ slots:
     type: unfeaturized
 responses:
   utter_greet:
-  - text: Hey! I am Sara and I would like to help you get started with Rasa. What
-      is your name?
+  - text: Hi ! 
   utter_docs:
   - text: The best way to get started with Rasa is to check our docs at https://rasa.com/docs
   utter_send_blog:
