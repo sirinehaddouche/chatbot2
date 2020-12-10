@@ -39,6 +39,8 @@ responses:
   - text: Yes I am !
   utter_fine:
   - text: Fine and you?
+  utter_bot:
+  - text: I'm bot !
 actions:
 - utter_greet
 - utter_docs
@@ -51,3 +53,4 @@ actions:
 - utter_thanks
 - utter_yes
 - utter_fine
+- utter_bot
