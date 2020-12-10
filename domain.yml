@@ -41,6 +41,8 @@ responses:
   - text: Fine and you?
   utter_bot:
   - text: I'm bot !
+  utter_health:
+  - text: How are you ?
 actions:
 - utter_greet
 - utter_docs
@@ -54,3 +56,4 @@ actions:
 - utter_yes
 - utter_fine
 - utter_bot
+- utter_health
