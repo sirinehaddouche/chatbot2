@@ -71,3 +71,14 @@
     - utter_thanks
 * goodbye
     - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* thanks
+    - utter_eating
+* tv
+    - utter_yes

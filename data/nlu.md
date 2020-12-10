@@ -13,7 +13,6 @@
 - no way
 - not really
 
-
 ## intent:goodbye
 - bye
 - goodbye
@@ -32,17 +31,15 @@
 - I am from [London](location)
 - I am based in [France](location)
 - From the [Netherlands](location)
-- I am from the [United States](location:USA)
+- I am from the [United States]{"entity": "location", "value": "USA"}
 - I am from [Berlin](location)
-- I am based in the [New York](location:NYC)
-
+- I am based in the [New York]{"entity": "location", "value": "NYC"}
 
 ## intent:thanks
 - Thanks
 - thank you
 - thank you so much
 - many thanks
-
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -51,9 +48,9 @@
 - Can I become a Rasa subscriber?
 
 ## intent:name
- - My name is [Tom](name)
- - I am [Tina](name)
- - Call me [Sarah](name)
+- My name is [Tom](name)
+- I am [Tina](name)
+- Call me [Sarah](name)
 
 ## intent:chitchat
 - I want pizza
@@ -65,3 +62,11 @@
 - Yep. I would also like to become a subscriber to the Rasa newsletter.
 - Yes I have. Also, add me to the Rasa newsletter subscriber list.
 
+## intent:tv
+- I'm watching TV
+
+## synonym:NYC
+- New York
+
+## synonym:USA
+- United States
