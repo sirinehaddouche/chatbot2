@@ -56,6 +56,7 @@
 - I want pizza
 - Are you a bot?
 - Who made you?
+- how are you?
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?

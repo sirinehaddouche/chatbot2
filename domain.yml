@@ -12,6 +12,7 @@ intents:
 - name
 - chitchat
 - affirm+subscribe
+- tv
 entities:
 - location
 - name
@@ -45,6 +46,8 @@ responses:
   - text: How are you ?
   utter_eating:
   - text: I'm eating and you?
+  utter_tv:
+  - text: what are you watching ?
 actions:
 - utter_greet
 - utter_docs
@@ -60,3 +63,4 @@ actions:
 - utter_bot
 - utter_health
 - utter_eating
+- utter_tv

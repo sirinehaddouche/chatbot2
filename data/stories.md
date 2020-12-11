@@ -82,3 +82,11 @@
     - utter_eating
 * tv
     - utter_yes
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* thanks
