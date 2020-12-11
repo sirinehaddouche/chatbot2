@@ -65,6 +65,9 @@
 
 ## intent:tv
 - I'm watching TV
+- I'm with my family 
+- I'm playing video games
+- I'm watching Netflix
 
 ## synonym:NYC
 - New York
