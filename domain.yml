@@ -42,11 +42,13 @@ responses:
   utter_fine:
   - text: Fine and you?
   utter_bot:
-  - text: I'm bot !
+  - text: I'm a bot !
   utter_health:
   - text: How are you ?
   utter_eating:
   - text: I'm eating and you?
+  - text: I'm on Tiktok and you?
+  - text: I'm with my family and you?
   utter_tv:
   - text: what are you watching ?
 actions:
