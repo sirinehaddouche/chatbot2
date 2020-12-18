@@ -90,3 +90,14 @@
 * chitchat
     - utter_fine
 * thanks
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* greet
+    - utter_qst1
+* tv
+    - utter_eating

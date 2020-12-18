@@ -53,6 +53,8 @@ responses:
   - text: what are you watching ?
   utter_qst1:
   - text: what are you doing?
+  utter_ok:
+  - text: ok cool
 actions:
 - utter_greet
 - utter_docs
@@ -70,3 +72,4 @@ actions:
 - utter_eating
 - utter_tv
 - utter_qst1
+- utter_ok
