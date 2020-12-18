@@ -55,6 +55,8 @@ responses:
   - text: what are you doing?
   utter_ok:
   - text: ok cool
+  utter_eating2:
+  - text: am eating pizza
 actions:
 - utter_greet
 - utter_docs
@@ -73,3 +75,4 @@ actions:
 - utter_tv
 - utter_qst1
 - utter_ok
+- utter_eating2
