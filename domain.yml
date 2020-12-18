@@ -51,6 +51,8 @@ responses:
   - text: I'm with my family and you?
   utter_tv:
   - text: what are you watching ?
+  utter_qst1:
+  - text: what are you doing?
 actions:
 - utter_greet
 - utter_docs
@@ -67,3 +69,4 @@ actions:
 - utter_health
 - utter_eating
 - utter_tv
+- utter_qst1
