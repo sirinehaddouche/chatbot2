@@ -122,3 +122,14 @@
 * chitchat
     - utter_eating
 * tv
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* location
+    - utter_eating
+* tv
+    - utter_ok
