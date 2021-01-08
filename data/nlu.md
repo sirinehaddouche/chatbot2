@@ -69,6 +69,13 @@
 - I'm playing video games
 - I'm watching Netflix
 
+
+## intent:not good
+- not feeling well...
+- not really
+- am sad today
+- I don't feel good actually 
+
 ## synonym:NYC
 - New York
 
