@@ -177,3 +177,14 @@
     - utter_why
 * affirm
     - utter_yes talk
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why
+* tragedy
+    - utter_sorry

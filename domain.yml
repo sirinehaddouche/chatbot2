@@ -14,6 +14,7 @@ intents:
 - affirm+subscribe
 - tv
 - not good
+- tragedy
 entities:
 - location
 - name
@@ -68,6 +69,11 @@ responses:
   - text: I can hear you
   - text: tell me
   - text: am listening
+  utter_sorry:
+  - text: ow... am so sorry about that ....
+  - text: am sorry for you  :(
+  - text: this is terrible ....
+  - text: omg sorry
 actions:
 - utter_greet
 - utter_docs
@@ -89,3 +95,4 @@ actions:
 - utter_eating2
 - utter_why
 - utter_yes talk
+- utter_sorry
