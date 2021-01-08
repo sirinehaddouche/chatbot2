@@ -153,3 +153,27 @@
     - utter_fine
 * not good
     - utter_why
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why
+* affirm
+    - utter_yes talk
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why
+* not good
+    - utter_why
+* affirm
+    - utter_yes talk
