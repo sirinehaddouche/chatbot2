@@ -144,3 +144,12 @@
     - utter_eating
 * tv
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why

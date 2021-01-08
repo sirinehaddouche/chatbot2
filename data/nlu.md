@@ -11,7 +11,12 @@
 - I don't think so
 - don't like that
 - no way
+
+## intent:not good
 - not really
+- not feeling well...
+- am sad today
+- I don't feel good actually
 
 ## intent:goodbye
 - bye
@@ -65,16 +70,9 @@
 
 ## intent:tv
 - I'm watching TV
-- I'm with my family 
+- I'm with my family
 - I'm playing video games
 - I'm watching Netflix
-
-
-## intent:not good
-- not feeling well...
-- not really
-- am sad today
-- I don't feel good actually 
 
 ## synonym:NYC
 - New York
