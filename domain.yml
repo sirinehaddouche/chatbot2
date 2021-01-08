@@ -25,6 +25,12 @@ responses:
   utter_greet:
   - text: Hi !
   - text: Hello !
+  - text: Yooo 
+  - text: Hello
+  - text: Hi
+  - text: Hey
+  - text: Hey !
+  - text: Heeeeeey
   utter_docs:
   - text: The best way to get started with Rasa is to check our docs at https://rasa.com/docs
   utter_send_blog:
@@ -43,10 +49,18 @@ responses:
   - text: Yes I am !
   utter_fine:
   - text: Fine and you?
+  - text: Good and you ?
+  - text: Pretty good, and you?
+  - text: Fine and u
+  - text: Am okay and u 
+  - text: Tired but am okay, u ?
   utter_bot:
   - text: I'm a bot !
   utter_health:
   - text: How are you ?
+  - text: How are u today?
+  - text: How do u feel?
+  - text: Are you okay today?
   utter_eating:
   - text: I'm eating and you?
   - text: I'm on Tiktok and you?
@@ -57,6 +71,9 @@ responses:
   - text: what are you doing?
   utter_ok:
   - text: ok cool
+  - text: okok
+  - text: okay
+  - text: good
   utter_eating2:
   - text: am eating pizza
   utter_why:
