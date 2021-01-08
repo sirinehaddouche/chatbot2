@@ -18,6 +18,11 @@
 - am sad today
 - I don't feel good actually
 
+## intent:tragedy
+- my cat just died...
+- i lost my friend in a car accident 
+- my grandma has a cancer
+
 ## intent:goodbye
 - bye
 - goodbye
