@@ -57,6 +57,11 @@ responses:
   - text: ok cool
   utter_eating2:
   - text: am eating pizza
+  utter_why:
+  - text: why ???????
+  - text: what happened ?
+  - text: wanna talk about it ?
+  - text: seriously ???? what's wrong ?
 actions:
 - utter_greet
 - utter_docs
@@ -76,3 +81,4 @@ actions:
 - utter_qst1
 - utter_ok
 - utter_eating2
+- utter_why
