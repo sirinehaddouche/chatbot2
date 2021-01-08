@@ -201,3 +201,14 @@
     - utter_yes talk
 * tragedy
     - utter_sorry
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why
+* tragedy
+    - utter_sorry
