@@ -91,6 +91,12 @@ responses:
   - text: am sorry for you  :(
   - text: this is terrible ....
   - text: omg sorry
+  
+   utter_watching:
+  - text: what are u watching ?
+  - text: oooooh you have netflix, lucky you !
+  - text: whats your favorite serie?
+  - text: okaaay enjoy !
 actions:
 - utter_greet
 - utter_docs
@@ -113,3 +119,4 @@ actions:
 - utter_why
 - utter_yes talk
 - utter_sorry
+- utter_watching
