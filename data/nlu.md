@@ -20,7 +20,7 @@
 
 ## intent:tragedy
 - my cat just died...
-- i lost my friend in a car accident 
+- i lost my friend in a car accident
 - my grandma has a cancer
 - I lost a member of my family
 
@@ -79,6 +79,9 @@
 - I'm with my family
 - I'm playing video games
 - I'm watching Netflix
+
+## intent:favorite_series
+- friends and u ?
 
 ## synonym:NYC
 - New York

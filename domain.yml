@@ -2,6 +2,7 @@ session_config:
   session_expiration_time: 0
   carry_over_slots_to_new_session: true
 intents:
+- favorite_series
 - greet
 - goodbye
 - affirm
@@ -25,7 +26,7 @@ responses:
   utter_greet:
   - text: Hi !
   - text: Hello !
-  - text: Yooo 
+  - text: Yooo
   - text: Hello
   - text: Hi
   - text: Hey
@@ -53,7 +54,7 @@ responses:
   - text: Good and you ?
   - text: Pretty good, and you?
   - text: Fine and u
-  - text: Am okay and u 
+  - text: Am okay and u
   - text: Tired but am okay, u ?
   utter_bot:
   - text: I'm a bot !
@@ -95,8 +96,8 @@ responses:
   - text: omg sorry
   utter_watching:
   - text: what's your favorite serie?
-  
-
+  utter_favorite_series:
+  - text: I like it too but I prefer GOT
 actions:
 - utter_greet
 - utter_docs
@@ -119,3 +120,4 @@ actions:
 - utter_why
 - utter_yes talk
 - utter_sorry
+- utter_favorite_series
