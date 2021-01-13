@@ -98,6 +98,9 @@
 ## intent:fine
 - am fine
 
+## intent:insist_nudes
+- come ooooon
+
 ## synonym:NYC
 - New York
 
