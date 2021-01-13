@@ -238,3 +238,28 @@
     - utter_nudes
 * shocking
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* do_nothing
+    - utter_eating
+* nudes2
+    - utter_shoking
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* greet

@@ -91,6 +91,9 @@
 - what did u say ????
 - ewwwww
 
+## intent:nudes2
+- I want nudes from u
+
 ## synonym:NYC
 - New York
 

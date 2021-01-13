@@ -4,6 +4,8 @@ session_config:
 intents:
 - favorite_series
 - do_nothing
+- shocking
+- nudes2
 - greet
 - goodbye
 - affirm
@@ -102,6 +104,12 @@ responses:
   utter_nudes:
   - text: I want nudes from u
   - text: send nudes
+  utter_shoking:
+  - text: whaaaaaat ?????
+  - text: sorry what ?
+  - text: Are u serious ????
+  - text: ewwwwww
+  - text: you're this type of person omg
 actions:
 - utter_greet
 - utter_docs
@@ -126,3 +134,4 @@ actions:
 - utter_sorry
 - utter_favorite_series
 - utter_nudes
+- utter_shoking
