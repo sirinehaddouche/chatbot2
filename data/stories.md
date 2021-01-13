@@ -263,3 +263,17 @@
 * do_nothing
     - utter_eating2
 * greet
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* nudes2
+    - utter_shoking
+* nudes2

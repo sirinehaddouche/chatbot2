@@ -110,6 +110,11 @@ responses:
   - text: Are u serious ????
   - text: ewwwwww
   - text: you're this type of person omg
+  utter_stop_nudes:
+  - text: please stop
+  - text: you're disgusting
+  - text: dont talk to me anymore
+  - text: am gonna block u animal
 actions:
 - utter_greet
 - utter_docs
@@ -135,3 +140,4 @@ actions:
 - utter_favorite_series
 - utter_nudes
 - utter_shoking
+- utter_stop_nudes

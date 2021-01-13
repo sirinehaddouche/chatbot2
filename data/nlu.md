@@ -93,6 +93,7 @@
 
 ## intent:nudes2
 - I want nudes from u
+- send nudes
 
 ## synonym:NYC
 - New York
