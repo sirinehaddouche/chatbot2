@@ -73,7 +73,6 @@ responses:
   - text: I'm eating and you?
   - text: I'm on Tiktok and you?
   - text: I'm with my family and you?
-  - text: I'm dancing
   utter_tv:
   - text: what are you watching ?
   utter_qst1:
@@ -107,6 +106,7 @@ responses:
   - text: what's your favorite serie?
   utter_favorite_series:
   - text: I like it too but I prefer GOT
+  - text: I looooove Murder
   utter_nudes:
   - text: I want nudes from u
   - text: send nudes
