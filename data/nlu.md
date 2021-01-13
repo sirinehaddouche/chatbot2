@@ -22,6 +22,7 @@
 - my cat just died...
 - i lost my friend in a car accident 
 - my grandma has a cancer
+- I lost a member of my family
 
 ## intent:goodbye
 - bye
