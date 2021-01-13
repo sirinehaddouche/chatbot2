@@ -37,6 +37,7 @@
 - good morning
 - good evening
 - hey there
+- yeeeeah
 
 ## intent:location
 - I am from [London](location)
@@ -105,6 +106,9 @@
 
 ## intent:dick_pic
 - do u want a dick pic?
+
+## intent:qst1
+- what are u doing
 
 ## synonym:NYC
 - New York
