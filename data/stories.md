@@ -212,3 +212,14 @@
     - utter_watching
 * favorite_series
     - utter_favorite_series
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* do_nothing
+    - utter_nudes

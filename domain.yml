@@ -3,6 +3,7 @@ session_config:
   carry_over_slots_to_new_session: true
 intents:
 - favorite_series
+- do_nothing
 - greet
 - goodbye
 - affirm
@@ -98,6 +99,9 @@ responses:
   - text: what's your favorite serie?
   utter_favorite_series:
   - text: I like it too but I prefer GOT
+  utter_nudes:
+  - text: I want nudes from u
+  - text: send nudes
 actions:
 - utter_greet
 - utter_docs
@@ -121,3 +125,4 @@ actions:
 - utter_yes talk
 - utter_sorry
 - utter_favorite_series
+- utter_nudes

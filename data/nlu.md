@@ -83,6 +83,9 @@
 ## intent:favorite_series
 - friends and u ?
 
+## intent:do_nothing
+- nothing and u
+
 ## synonym:NYC
 - New York
 
