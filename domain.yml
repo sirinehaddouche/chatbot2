@@ -66,6 +66,7 @@ responses:
   - text: I'm eating and you?
   - text: I'm on Tiktok and you?
   - text: I'm with my family and you?
+  - text: I'm dancing
   utter_tv:
   - text: what are you watching ?
   utter_qst1:
