@@ -199,3 +199,16 @@
     - utter_watching
 * favorite_series
     - utter_favorite_series
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* tv
+    - utter_watching
+* favorite_series
+    - utter_favorite_series
