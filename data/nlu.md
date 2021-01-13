@@ -102,6 +102,9 @@
 - come ooooon
 - pleeease i want it now
 
+## intent:dick_pic
+- do u want a dick pic?
+
 ## synonym:NYC
 - New York
 

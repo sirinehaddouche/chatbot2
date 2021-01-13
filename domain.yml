@@ -6,6 +6,9 @@ intents:
 - do_nothing
 - shocking
 - nudes2
+- fine
+- insist_nudes
+- dick_pic
 - greet
 - goodbye
 - affirm
@@ -82,6 +85,9 @@ responses:
   - text: good
   utter_eating2:
   - text: am eating pizza
+  - text: being lazy on social media
+  - text: am doom scroolling on instagram
+  - text: am drawing a flower
   utter_why:
   - text: why ???????
   - text: what happened ?

@@ -339,3 +339,16 @@
     - utter_shoking
 * nudes2
     - utter_stop_nudes
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* dick_pic
+    - utter_shoking
