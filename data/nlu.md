@@ -95,6 +95,9 @@
 - I want nudes from u
 - send nudes
 
+## intent:fine
+- am fine
+
 ## synonym:NYC
 - New York
 
