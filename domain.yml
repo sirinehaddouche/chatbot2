@@ -93,6 +93,8 @@ responses:
   - text: am sorry for you  :(
   - text: this is terrible ....
   - text: omg sorry
+  utter_watching:
+  - text: what's your favorite serie?
   
 
 actions:
