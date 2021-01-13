@@ -100,6 +100,7 @@
 
 ## intent:insist_nudes
 - come ooooon
+- pleeease i want it now
 
 ## synonym:NYC
 - New York
