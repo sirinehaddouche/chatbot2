@@ -223,3 +223,18 @@
     - utter_qst1
 * do_nothing
     - utter_nudes
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* name
+    - utter_qst1
+* do_nothing
+    - utter_nudes
+* shocking
+    - utter_nudes
+* shocking
+    - utter_ok

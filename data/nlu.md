@@ -68,6 +68,7 @@
 - Are you a bot?
 - Who made you?
 - how are you?
+- how are u today
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -85,6 +86,10 @@
 
 ## intent:do_nothing
 - nothing and u
+
+## intent:shocking
+- what did u say ????
+- ewwwww
 
 ## synonym:NYC
 - New York
