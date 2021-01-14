@@ -98,6 +98,7 @@
 
 ## intent:fine
 - am fine
+- am fine thanks
 
 ## intent:insist_nudes
 - come ooooon
