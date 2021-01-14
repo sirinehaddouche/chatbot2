@@ -129,6 +129,9 @@
 ## intent:what_fav_series
 - what's your favorite serie?
 
+## intent:my_fav_serie
+- I prefer [Friends](location)
+
 ## synonym:NYC
 - New York
 

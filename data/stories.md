@@ -560,3 +560,50 @@
     - utter_eating2
 * what_fav_series
     - utter_fav_series_qst
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* tv
+    - utter_eating2
+* what_fav_series
+    - utter_fav_series_qst
+* my_fav_serie{"location":"Friends"}
+    - slot{"location":"Friends"}
+    - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* tv
+    - utter_eating2
+* what_fav_series
+    - utter_fav_series_qst
+* my_fav_serie{"location":"Friends"}
+    - slot{"location":"Friends"}
+    - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* dick_pic
+    - utter_shoking
+* nudes2
+    - utter_stop_nudes
