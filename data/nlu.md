@@ -116,6 +116,9 @@
 ## intent:date_qst1
 - wanna go on a date?
 
+## intent:date_resto
+- what about in the restaurant ?
+
 ## synonym:NYC
 - New York
 

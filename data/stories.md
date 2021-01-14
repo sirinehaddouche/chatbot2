@@ -442,3 +442,16 @@
     - utter_eating
 * tv
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine_doing_now
+    - utter_eating
+* date_qst1
+    - utter_yes_date
+* date_resto
+    - utter_date_resto

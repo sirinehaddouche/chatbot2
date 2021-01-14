@@ -12,6 +12,7 @@ intents:
 - qst1
 - fine_doing_now
 - date_qst1
+- date_resto
 - greet
 - goodbye
 - affirm
@@ -130,6 +131,10 @@ responses:
   - text: sure !! what's the plan ?
   - text: why not, what are we going to do ?
   - text: omg finally you're asking, where ?
+  utter_date_resto:
+  - text: yeees, it's a good idea
+  - text: Am okay with a restaurant
+  - text: it's fine for me
 actions:
 - utter_greet
 - utter_docs
@@ -157,3 +162,4 @@ actions:
 - utter_shoking
 - utter_stop_nudes
 - utter_yes_date
+- utter_date_resto
