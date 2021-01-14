@@ -532,3 +532,31 @@
     - utter_yes_date
 * date_cinema
     - utter_date_cinema
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* date_qst1
+    - utter_yes_date
+* date_cinema
+    - utter_date_cinema
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* fine
+    - utter_eating2
+* what_fav_series
+    - utter_fav_series_qst

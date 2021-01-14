@@ -124,6 +124,10 @@
 
 ## intent:date_cinema
 - let's go to the cinema then
+- I thought about a date in the cinema
+
+## intent:what_fav_series
+- what's your favorite serie?
 
 ## synonym:NYC
 - New York

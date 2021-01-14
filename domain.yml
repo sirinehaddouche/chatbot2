@@ -14,6 +14,7 @@ intents:
 - date_qst1
 - date_resto
 - date_cinema
+- what_fav_series
 - greet
 - goodbye
 - affirm
@@ -140,6 +141,10 @@ responses:
   - text: coooool, I love popcorn
   - text: sure it's perfect for me !
   - text: I love your idea
+  utter_fav_series_qst:
+  - text: I like GOT and u ?
+  - text: I loooove The Last Kingdom, and you ?
+  - text: I really like Emily In Paris, and u ?
 actions:
 - utter_greet
 - utter_docs
@@ -169,3 +174,4 @@ actions:
 - utter_yes_date
 - utter_date_resto
 - utter_date_cinema
+- utter_fav_series_qst
