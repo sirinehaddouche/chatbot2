@@ -607,3 +607,29 @@
     - utter_shoking
 * nudes2
     - utter_stop_nudes
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine
+    - utter_qst1
+* do_nothing
+    - utter_eating2
+* date_qst1
+    - utter_yes_date
+* date_resto
+    - utter_date_cinema
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* not good
+    - utter_why
+* sick
+    - utter_sick

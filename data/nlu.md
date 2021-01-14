@@ -132,6 +132,9 @@
 ## intent:my_fav_serie
 - I prefer [Friends](location)
 
+## intent:sick
+- i think am sick
+
 ## synonym:NYC
 - New York
 

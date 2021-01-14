@@ -15,6 +15,8 @@ intents:
 - date_resto
 - date_cinema
 - what_fav_series
+- my_fav_serie
+- sick
 - greet
 - goodbye
 - affirm
@@ -145,6 +147,9 @@ responses:
   - text: I like GOT and u ?
   - text: I loooove The Last Kingdom, and you ?
   - text: I really like Emily In Paris, and u ?
+  utter_sick:
+  - text: did u go to the doctor ?
+  - text: have u seen a doctor ?
 actions:
 - utter_greet
 - utter_docs
@@ -175,3 +180,4 @@ actions:
 - utter_date_resto
 - utter_date_cinema
 - utter_fav_series_qst
+- utter_sick
