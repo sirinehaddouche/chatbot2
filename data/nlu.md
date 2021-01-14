@@ -113,6 +113,9 @@
 ## intent:fine_doing_now
 - am fine, what are u doing right now ?
 
+## intent:date_qst1
+- wanna go on a date?
+
 ## synonym:NYC
 - New York
 

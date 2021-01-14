@@ -9,6 +9,9 @@ intents:
 - fine
 - insist_nudes
 - dick_pic
+- qst1
+- fine_doing_now
+- date_qst1
 - greet
 - goodbye
 - affirm
@@ -53,8 +56,6 @@ responses:
   - text: Great! Have you used Rasa before?
   utter_thanks:
   - text: You're welcome !
-  utter_yes:
-  - text: Yes I am !
   utter_fine:
   - text: Fine and you?
   - text: Good and you ?
@@ -121,6 +122,14 @@ responses:
   - text: you're disgusting
   - text: dont talk to me anymore
   - text: am gonna block u animal
+  utter_yes:
+  - text: yes sure
+  - text: yeees
+  utter_yes_date:
+  - text: yeeeeah where do u wanna go ?
+  - text: sure !! what's the plan ?
+  - text: why not, what are we going to do ?
+  - text: omg finally you're asking, where ?
 actions:
 - utter_greet
 - utter_docs
@@ -147,3 +156,4 @@ actions:
 - utter_nudes
 - utter_shoking
 - utter_stop_nudes
+- utter_yes_date
