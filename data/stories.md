@@ -633,3 +633,12 @@
     - utter_why
 * sick
     - utter_sick
+
+## New Story
+
+* tv
+    - utter_eating2
+* date_qst1
+    - utter_yes_date
+* date_resto
+    - utter_date_resto

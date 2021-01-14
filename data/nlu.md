@@ -135,6 +135,9 @@
 ## intent:sick
 - i think am sick
 
+## intent:no
+- not yet
+
 ## synonym:NYC
 - New York
 

@@ -17,6 +17,7 @@ intents:
 - what_fav_series
 - my_fav_serie
 - sick
+- no
 - greet
 - goodbye
 - affirm
@@ -150,6 +151,10 @@ responses:
   utter_sick:
   - text: did u go to the doctor ?
   - text: have u seen a doctor ?
+  utter_go_doctor:
+  - text: what are you waiting for ?
+  - text: you have to go
+  - text: go now
 actions:
 - utter_greet
 - utter_docs
@@ -181,3 +186,4 @@ actions:
 - utter_date_cinema
 - utter_fav_series_qst
 - utter_sick
+- utter_go_doctor
