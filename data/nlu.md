@@ -110,6 +110,9 @@
 ## intent:qst1
 - what are u doing
 
+## intent:fine_doing_now
+- am fine, what are u doing right now ?
+
 ## synonym:NYC
 - New York
 

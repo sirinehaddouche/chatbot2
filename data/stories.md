@@ -431,3 +431,14 @@
     - utter_yes talk
 * tragedy
     - utter_sorry
+
+## New Story
+
+* greet
+    - utter_greet
+* chitchat
+    - utter_fine
+* fine_doing_now
+    - utter_eating
+* tv
+    - utter_ok
