@@ -13,6 +13,7 @@ intents:
 - fine_doing_now
 - date_qst1
 - date_resto
+- date_cinema
 - greet
 - goodbye
 - affirm
@@ -135,6 +136,10 @@ responses:
   - text: yeees, it's a good idea
   - text: Am okay with a restaurant
   - text: it's fine for me
+  utter_date_cinema:
+  - text: coooool, I love popcorn
+  - text: sure it's perfect for me !
+  - text: I love your idea
 actions:
 - utter_greet
 - utter_docs
@@ -163,3 +168,4 @@ actions:
 - utter_stop_nudes
 - utter_yes_date
 - utter_date_resto
+- utter_date_cinema

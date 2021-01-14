@@ -99,6 +99,7 @@
 ## intent:fine
 - am fine
 - am fine thanks
+- am good too
 
 ## intent:insist_nudes
 - come ooooon
@@ -107,6 +108,7 @@
 
 ## intent:dick_pic
 - do u want a dick pic?
+- i can send u a dick pick
 
 ## intent:qst1
 - what are u doing
@@ -119,6 +121,9 @@
 
 ## intent:date_resto
 - what about in the restaurant ?
+
+## intent:date_cinema
+- let's go to the cinema then
 
 ## synonym:NYC
 - New York
